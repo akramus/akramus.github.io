@@ -1,0 +1,8 @@
+---
+label: Java
+hide_body: false
+is_partial: false
+fields:
+- type: color
+  config:
+    color_format: Hex
