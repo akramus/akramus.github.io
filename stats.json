@@ -1,0 +1,74 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-4b23f78afa42ffad42ad.js",
+      "component---src-pages-index-js-4b23f78afa42ffad42ad.js.map"
+    ],
+    "path---blog": [
+      "path---blog-777729761ec49f155724.js",
+      "path---blog-777729761ec49f155724.js.map"
+    ],
+    "path---": [
+      "path----05bb293b014521b99232.js",
+      "path----05bb293b014521b99232.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-e712ab1dc6481343fe9e.js",
+      "component---src-pages-contact-js-e712ab1dc6481343fe9e.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-2969e6784bc8e9a47753.js",
+      "component---src-templates-blog-post-js-2969e6784bc8e9a47753.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-1651b63dcd35b0b6f42b.js",
+      "component---src-layouts-index-js-1651b63dcd35b0b6f42b.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-blog-index-js": [
+      "component---src-pages-blog-index-js-4a21e6d001ca859f7316.js",
+      "component---src-pages-blog-index-js-4a21e6d001ca859f7316.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-b49e290e2a7db0662d94.js",
+      "component---src-pages-404-js-b49e290e2a7db0662d94.js.map"
+    ],
+    "commons": [
+      "commons-5af1a38a07d94d736149.js",
+      "commons-5af1a38a07d94d736149.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---blog-getting-started-with-aws-lambda": [
+      "path---blog-getting-started-with-aws-lambda-a28cba2f161701746731.js",
+      "path---blog-getting-started-with-aws-lambda-a28cba2f161701746731.js.map"
+    ],
+    "path---blog-fp-react-loading-component": [
+      "path---blog-fp-react-loading-component-31de9a8a553770c1580c.js",
+      "path---blog-fp-react-loading-component-31de9a8a553770c1580c.js.map"
+    ],
+    "path---blog-deploy-a-website-api-with-serverless": [
+      "path---blog-deploy-a-website-api-with-serverless-fa74e0307b5344956be6.js",
+      "path---blog-deploy-a-website-api-with-serverless-fa74e0307b5344956be6.js.map"
+    ],
+    "app": [
+      "app-66a0a5bb867ca699a2b9.js",
+      "build-js-styles.css",
+      "app-66a0a5bb867ca699a2b9.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+webpackJsonp([0x9427c64ab85d],{242:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=a(2),r=n(l);t.default=function(e){e.data;return r.default.createElement("section",{id:"one"},r.default.createElement("div",{className:"container"},r.default.createElement("header",{className:"major",style:{paddingBottom:"45vh"}},r.default.createElement("h2",null,"404 error!"))))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-404-js-b49e290e2a7db0662d94.js.map
