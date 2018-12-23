@@ -5,8 +5,8 @@
       "component---src-pages-index-js-4b23f78afa42ffad42ad.js.map"
     ],
     "path---blog": [
-      "path---blog-777729761ec49f155724.js",
-      "path---blog-777729761ec49f155724.js.map"
+      "path---blog-7abd68ee31cfe971ff32.js",
+      "path---blog-7abd68ee31cfe971ff32.js.map"
     ],
     "path---": [
       "path----05bb293b014521b99232.js",
@@ -21,8 +21,8 @@
       "component---src-templates-blog-post-js-2969e6784bc8e9a47753.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-341ca07639997048ec6c.js",
-      "component---src-layouts-index-js-341ca07639997048ec6c.js.map"
+      "component---src-layouts-index-js-f7476d8e5df4f077f664.js",
+      "component---src-layouts-index-js-f7476d8e5df4f077f664.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -48,27 +48,19 @@
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---blog-getting-started-with-aws-lambda": [
-      "path---blog-getting-started-with-aws-lambda-a28cba2f161701746731.js",
-      "path---blog-getting-started-with-aws-lambda-a28cba2f161701746731.js.map"
-    ],
-    "path---blog-fp-react-loading-component": [
-      "path---blog-fp-react-loading-component-31de9a8a553770c1580c.js",
-      "path---blog-fp-react-loading-component-31de9a8a553770c1580c.js.map"
-    ],
-    "path---blog-deploy-a-website-api-with-serverless": [
-      "path---blog-deploy-a-website-api-with-serverless-fa74e0307b5344956be6.js",
-      "path---blog-deploy-a-website-api-with-serverless-fa74e0307b5344956be6.js.map"
-    ],
     "app": [
-      "app-66a0a5bb867ca699a2b9.js",
+      "app-e9a22392a293a77c4d57.js",
       "build-js-styles.css",
-      "app-66a0a5bb867ca699a2b9.js.map",
+      "app-e9a22392a293a77c4d57.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---blog-article-1": [
+      "path---blog-article-1-5ab8a501913b85ba189d.js",
+      "path---blog-article-1-5ab8a501913b85ba189d.js.map"
     ]
   }
 }
