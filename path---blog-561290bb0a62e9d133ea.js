@@ -1,2 +1,0 @@
-webpackJsonp([49683490770531],{367:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"D:/Dev/workspaces/blog-gatsbyjs/ui/src/pages/blog/article-1/index.md absPath of file >>> MarkdownRemark",frontmatter:{date:"12/24/2017",title:"Deploiement automatique",path:"/home/blog/article-1"},excerpt:"Test 1 je fais un test"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---blog-561290bb0a62e9d133ea.js.map
