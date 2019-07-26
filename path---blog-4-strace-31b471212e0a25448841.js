@@ -1,2 +1,0 @@
-webpackJsonp([0x95ee68ed7038],{368:function(t,e){t.exports={data:{markdownRemark:{html:"<h1>Strace ?</h1>",frontmatter:{title:"Strace  ?",date:"22/07/2019"}}},pathContext:{slug:"/blog/4-Strace/"}}}});
-//# sourceMappingURL=path---blog-4-strace-31b471212e0a25448841.js.map
