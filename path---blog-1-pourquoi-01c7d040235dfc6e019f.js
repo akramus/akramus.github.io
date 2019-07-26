@@ -1,0 +1,2 @@
+webpackJsonp([0x73c25dac983e],{365:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Pourquoi ce nouvel espace ?</h1>\n<p>Cet espace sera dédié au partage de feedback sur les technologies et les méthodologies que j'utilise chez mes clients en mission.      </p>",frontmatter:{title:"Est ce qu'un nouveau blog est né  ?",date:"12/07/2019"}}},pathContext:{slug:"/blog/1-pourquoi/"}}}});
+//# sourceMappingURL=path---blog-1-pourquoi-01c7d040235dfc6e019f.js.map
